@@ -2,8 +2,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
 
 body {
-font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #a77cf7 /*#dfdfdf;*/
+font: normal normal 14px/17px "Open Sans", sans-serif;
+background: #a77cf7
 }
 
 .container {
@@ -17,12 +17,13 @@ border-radius: 5px;
 
 form {
 display: inline-block;
+text-align: center;
 }
 
 input {
 padding: 4px 15px 4px 5px;
 font: inherit;
-font-size: 16px;
+font-size: 17px;
 }
 
 #button {
